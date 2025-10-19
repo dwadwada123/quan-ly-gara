@@ -1,4 +1,4 @@
-# Đồ án môn học SOF1021: Phần mềm Quản lý Gara Sửa chữa 🚗
+# Đồ án môn học SOF1021: Phần mềm Quản lý Gara Sửa chữa
 
 Đây là repository lưu trữ toàn bộ tài liệu cho đồ án môn học Nhập môn Kỹ thuật Phần mềm (SOF1021), được thực hiện bởi Nhóm 4.
 
@@ -8,7 +8,7 @@ Trong bối cảnh nhu cầu sử dụng và bảo dưỡng phương tiện giao
 
 Dự án **"Ứng dụng Quản Lý Gara Sửa Chữa"** nhằm mục đích xây dựng một hệ thống đơn giản, trực quan giúp số hóa các quy trình nghiệp vụ cốt lõi, từ đó nâng cao hiệu quả hoạt động của gara.
 
-## Thành viên Nhóm 4 👥
+## Thành viên Nhóm 4
 
 | Họ và tên          | MSSV    |
 | ------------------ | ------- |
@@ -17,7 +17,7 @@ Dự án **"Ứng dụng Quản Lý Gara Sửa Chữa"** nhằm mục đích xâ
 | Phạm Đức Anh Tài   | PD11720 |
 | Trần Tâm           | PD11941 |
 
-## Chức năng chính ✨
+## Chức năng chính
 
 Hệ thống tập trung vào các nhóm chức năng cốt lõi để phục vụ toàn bộ quy trình vận hành của một gara sửa chữa:
 
@@ -28,7 +28,7 @@ Hệ thống tập trung vào các nhóm chức năng cốt lõi để phục v�
 * **Báo cáo & Thống kê:** Xuất báo cáo doanh thu, thống kê các dịch vụ và phụ tùng phổ biến.
 * **Quản lý Nhân sự & Phân quyền:** Quản lý thông tin nhân viên và phân quyền truy cập hệ thống theo từng vai trò cụ thể.
 
-## Công nghệ & Kiến trúc 🏗️
+## Công nghệ & Kiến trúc
 
 Dự án được thiết kế theo **Kiến trúc Phân tầng 3 Lớp (3-Tier Layered Architecture)** để đảm bảo tính linh hoạt, dễ bảo trì và khả năng mở rộng.
 
@@ -40,21 +40,34 @@ Dự án được thiết kế theo **Kiến trúc Phân tầng 3 Lớp (3-Tier 
 
 Toàn bộ tài liệu của dự án được tổ chức trong repository này theo cấu trúc sau:
 /
-  Assignment_Nhom4_SOF1021.docx
-  TaiLieuPhanTich/
-    Lab1_PhanTichBaiToan.docx
-    Lab2_PhanTichYeuCau.docx
-    Lab3_TaiLieuSRS.docx
-  ThietKeHeThong/
-    Lab4_ThietKeUseCase.docx
-    Lab5_ThietKeKienTruc.docx
-    Lab6_ThietKeUML.docx
-  TaiLieuKiemThu/
-    Lab7_KiemThuPhanMem.docx
-  QuanLyDuAn/
-    Lab8_QuanLyDuAn.docx
-  README.md
 
+Assignment_Nhom4_SOF1021.docx
+
+TaiLieuPhanTich/
+
+Lab1_PhanTichBaiToan.docx
+
+Lab2_PhanTichYeuCau.docx
+
+Lab3_TaiLieuSRS.docx
+
+ThietKeHeThong/
+
+Lab4_ThietKeUseCase.docx
+
+Lab5_ThietKeKienTruc.docx
+
+Lab6_ThietKeUML.docx
+
+TaiLieuKiemThu/
+
+Lab7_KiemThuPhanMem.docx
+
+QuanLyDuAn/
+
+Lab8_QuanLyDuAn.docx
+
+README.md
 ## Cách sử dụng
 
 Toàn bộ tài liệu của dự án từ giai đoạn phân tích yêu cầu, thiết kế hệ thống, kiểm thử cho đến quản lý dự án đều được lưu trữ trong các thư mục tương ứng. Báo cáo tổng hợp cuối kỳ nằm ở file `Assignment_Nhom4_SOF1021.docx`.
