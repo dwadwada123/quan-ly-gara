@@ -45,27 +45,27 @@ Assignment_Nhom4_SOF1021.docx
 
 TaiLieuPhanTich/
 
-Lab1_PhanTichBaiToan.docx
+  Lab1_PhanTichBaiToan.docx
 
-Lab2_PhanTichYeuCau.docx
+  Lab2_PhanTichYeuCau.docx
 
-Lab3_TaiLieuSRS.docx
+  Lab3_TaiLieuSRS.docx
 
 ThietKeHeThong/
 
-Lab4_ThietKeUseCase.docx
+  Lab4_ThietKeUseCase.docx
 
-Lab5_ThietKeKienTruc.docx
+  Lab5_ThietKeKienTruc.docx
 
-Lab6_ThietKeUML.docx
+  Lab6_ThietKeUML.docx
 
 TaiLieuKiemThu/
 
-Lab7_KiemThuPhanMem.docx
+  Lab7_KiemThuPhanMem.docx
 
 QuanLyDuAn/
 
-Lab8_QuanLyDuAn.docx
+  Lab8_QuanLyDuAn.docx
 
 README.md
 ## Cách sử dụng
