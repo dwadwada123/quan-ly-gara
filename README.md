@@ -40,18 +40,31 @@ Dự án được thiết kế theo **Kiến trúc Phân tầng 3 Lớp (3-Tier 
 
 Toàn bộ tài liệu của dự án được tổ chức trong repository này theo cấu trúc sau:
 ├── Assignment_Nhom4_SOF1021.docx
+
 ├── TaiLieuPhanTich/
+
 │   ├── Lab1_PhanTichBaiToan.docx
+
 │   ├── Lab2_PhanTichYeuCau.docx
+
 │   └── Lab3_TaiLieuSRS.docx
+
 ├── ThietKeHeThong/
+
 │   ├── Lab4_ThietKeUseCase.docx
+
 │   ├── Lab5_ThietKeKienTruc.docx
+
 │   └── Lab6_ThietKeUML.docx
+
 ├── TaiLieuKiemThu/
+
 │   └── Lab7_KiemThuPhanMem.docx
+
 ├── QuanLyDuAn/
+
 │   └── Lab8_QuanLyDuAn.docx
+
 └── README.md
 ## Cách sử dụng
 
